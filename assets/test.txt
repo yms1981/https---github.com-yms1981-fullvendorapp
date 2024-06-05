@@ -1,0 +1,1 @@
+cupertino_icons flutterlifecyclehooks fluttertoast http shared_preferences sqflite cached_network_image dio connectivity_plus package_info_plus url_launcher flutter_barcode_scanner intl easy_localization decimal auto_size_text
